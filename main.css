@@ -1,0 +1,10 @@
+/* Fondo de la web light */
+.fondo {
+    background-color: rgb(255, 255, 255);
+}
+
+/* Fondo de la web dark*/
+
+.fondo-blanco {
+    background-color: rgb(0, 0, 0);
+}
