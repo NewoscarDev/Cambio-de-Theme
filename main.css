@@ -1,0 +1,29 @@
+/* Cambio de el tema del fondo (del Body) */
+
+.fondo {
+    background-color: white;
+}
+.fondo2 {
+    background-color: black;
+}
+
+
+/* Cambio de el tema de los botones */
+
+.boton-light {
+    height: 20px;
+    width: 160px;
+    color: white;
+    background-color: rgb(255, 51, 51);
+    border: 1px rgb(171, 191, 255);
+    border-radius: 5px;
+}
+
+.boton-dark {
+    height: 20px;
+    width: 160px;
+    color: white;
+    background-color: rgb(147, 185, 243);
+    border: 1px solid red;
+    border-radius: 5px;
+}
